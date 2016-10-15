@@ -1,0 +1,242 @@
+{
+  "mainWindow": {
+    "divider": {
+      "topColor": "#424242",
+      "middleColor": "#424242",
+      "bottomColor": "#424242"
+    }
+  },
+  "sidebar": {
+    "topBar": {
+      "backgroundColor": "#3d3d3d",
+      "bottomBorderColor": "#424242",
+      "segmentedControl": {
+        "tintColor": "#dddddd",
+        "borderWidth": 2.5,
+        "borderRadius": 3
+      }
+    },
+    "table": {
+      "backgroundColor": "#3d3d3d",
+      "textColor": "#dddddd",
+      "selectedTextColor": "#dddddd",
+      "emphasizedTextColor": "#dddddd",
+      "iconColor": "#B6B9BF",
+      "selectedIconColor": "#000",
+      "emphasizedIconColor": "#dddddd",
+      "selectedRowBgColor": "#5493f8",
+      "emphasizedRowBgColor": "#1F6FEB"
+    },
+    "bottomBar": {
+      "backgroundColor": "#3d3d3d",
+      "topBorderColor": "#424242",
+      "textColor": "#dddddd",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB"
+    }
+  },
+  "noteList": {
+    "topBar": {
+      "backgroundColor": "#3d3d3d",
+      "bottomBorderColor": "#424242",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB"
+    },
+    "tableHeader": {
+      "backgroundColor": "#3d3d3d",
+      "bottomBorderColor": "#424242",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB"
+    },
+    "table": {
+      "backgroundColor": "#444444",
+      "separatorColor": "#424242",
+      "textColor": "#dddddd",
+      "selectedTextColor": "#dddddd",
+      "emphasizedTextColor": "#dddddd",
+      "detailColor": "#bbb",
+      "selectedDetailColor": "#dddddd",
+      "emphasizedDetailColor": "#dddddd",
+      "iconColor": "#dddddd",
+      "selectedIconColor": "#000",
+      "emphasizedIconColor": "#dddddd",
+      "rowBgColor": "#2b3137",
+      "altRowBgColor": "#323840",
+      "selectedRowBgColor": "#5493f8",
+      "emphasizedRowBgColor": "#1F6FEB",
+      "draggedRowBgColor": "#666",
+      "emptyTextColor": "#dddddd"
+    },
+    "bottomBar": {
+      "backgroundColor": "#444444",
+      "searchField": {
+        "textColor": "#dddddd",
+        "controlColor": "#dddddd",
+        "pressedControlColor": "#1F6FEB",
+        "backgroundColor": "#3d3d3d",
+        "borderColor": "#424242",
+        "placeholderColor": "#dddddd"
+      }
+    }
+  },
+  "noteView": {
+    "backgroundColor": "#3d3d3d",
+    "dividerColor": "#424242",
+    "topBar": {
+      "backgroundColor": "#3d3d3d",
+      "bottomBorderColor": "#424242",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB",
+      "segmentedControl": {
+        "tintColor": "#dddddd",
+        "borderWidth": 2.5,
+        "borderRadius": 3
+      }
+    },
+    "toolbar": {
+      "backgroundColor": "#3d3d3d",
+      "dividerColor": "#424242",
+      "middleDividerColor": "#424242",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB",
+      "iconColor": "#dddddd",
+      "textColor": "#dddddd",
+      "popUpButton": {
+        "titleColor": "#dddddd",
+        "borderColor": "#424242"
+      },
+      "tagField": {
+        "textColor": "#dddddd",
+        "placeholderColor": "#dddddd",
+        "tag": {
+          "textColor": "#dddddd",
+          "selectedTextColor": "#dddddd",
+          "backgroundColor": "#424242",
+          "selectedBackgroundColor": "#1F6FEB",
+          "borderRadius": 4
+        }
+      },
+      "formatBar": {
+        "controlColor": "#dddddd",
+        "highlightColor": "#5fd1f0"
+      },
+      "searchField": {
+        "textColor": "#dddddd",
+        "controlColor": "#dddddd",
+        "pressedControlColor": "#1F6FEB",
+        "backgroundColor": "#3d3d3d",
+        "borderColor": "#424242",
+        "placeholderColor": "#dddddd"
+      },
+      "doneButton": {
+        "textColor": "#dddddd",
+        "highlightBackgroundColor": "#dddddd",
+        "borderColor": "#424242"
+      }
+    },
+    "bottomBar": {
+      "backgroundColor": "#3d3d3d",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB"
+    }
+  },
+  "multiNote": {
+    "backgroundColor": "#3d3d3d",
+    "textColor": "#dddddd",
+    "button": {
+      "tintColor": "#dddddd",
+      "highlightColor": "#1F1F1F",
+      "backgroundColor": "#3d3d3d",
+      "highlightBackgroundColor": "#D2D3D3",
+      "borderColor": "#424242",
+      "highlightBorderColor": "#424242"
+    },
+    "tagField": {
+      "textColor": "#dddddd",
+      "placeholderColor": "#b8b8b8",
+      "backgroundColor": "#3d3d3d",
+      "borderColor": "#424242",
+      "borderRadius": 4,
+      "tag": {
+        "textColor": "#dddddd",
+        "selectedTextColor": "#dddddd",
+        "backgroundColor": "#424242",
+        "selectedBackgroundColor": "#1F6FEB",
+        "borderRadius": 4
+      }
+    }
+  },
+  "notebookPicker": {
+    "backgroundColor": "#3d3d3d",
+    "textColor": "#dddddd",
+    "dividerColor": "#424242",
+    "searchField": {
+      "textColor": "#dddddd",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB",
+      "backgroundColor": "#3d3d3d",
+      "borderColor": "#424242",
+      "placeholderColor": "#dddddd"
+    },
+    "table": {
+      "textColor": "#dddddd",
+      "selectedTextColor": "#000",
+      "emphasizedTextColor": "#dddddd",
+      "iconColor": "#dddddd",
+      "selectedIconColor": "#dddddd",
+      "emphasizedIconColor": "#dddddd",
+      "selectedRowBgColor": "#e2eff6",
+      "emphasizedRowBgColor": "#1F6FEB",
+      "emptyTextColor": "#dddddd"
+    }
+  },
+  "searchView": {
+    "backgroundColor": "#3d3d3d",
+    "searchField": {
+      "textColor": "#dddddd",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB",
+      "backgroundColor": "#3d3d3d",
+      "borderColor": "#424242",
+      "placeholderColor": "#dddddd"
+    },
+    "tableHeader": {
+      "backgroundColor": "#3d3d3d",
+      "topBorderColor": "#424242",
+      "bottomBorderColor": "#424242",
+      "textColor": "#dddddd",
+      "controlColor": "#dddddd",
+      "pressedControlColor": "#1F6FEB"
+    },
+    "table": {
+      "separatorColor": "#424242",
+      "textColor": "#dddddd",
+      "selectedTextColor": "#000",
+      "emphasizedTextColor": "#dddddd",
+      "detailColor": "#dddddd",
+      "selectedDetailColor": "#000",
+      "emphasizedDetailColor": "#dddddd",
+      "iconColor": "#dddddd",
+      "selectedIconColor": "#000",
+      "emphasizedIconColor": "#dddddd",
+      "rowBgColor": "#424242",
+      "altRowBgColor": "#323840",
+      "selectedRowBgColor": "#5493f8",
+      "emphasizedRowBgColor": "#1F6FEB",
+      "emptyTextColor": "#dddddd"
+    }
+  },
+  "presentation": {
+    "backgroundColor": "#3d3d3d"
+  },
+  "editor": {
+    "codeCellTheme": "monokai",
+    "markdownCellTheme": "monokai"
+  },
+  "css": {
+    "className": "dark",
+    "editor": ".dark{color:#dddddd}.dark a{color:#80BBFF}.dark table tr:nth-child(even){background-color:#3d3d3d}.dark blockquote{color:#999}.dark hr{background-color:#999}.dark code{background-color:rgba(255,255,255,.1)}.dark svg{background-color:#dddddd}.dark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}.dark .diagram-cell .ace_editor,.dark .latex-cell .ace_editor,.dark .markdown-cell .ace_editor{color:#c7c7c7;background-color:#3d3d3d}.dark .markdown-cell .ace_list{color:#c7c7c7} .cell.inEditMode{border-color: #303030; background-color:#333333;} .dark .ace_focus{background-color: #333333 !important;}",
+    "preview": ".dark{color:#dddddd}.dark a{color:#80BBFF}.dark table tr:nth-child(even){background-color:#3d3d3d}.dark blockquote{color:#999}.dark hr{background-color:#999}.dark code{background-color:rgba(255,255,255,.1)}.dark svg{background-color:#dddddd}.dark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}",
+    "presentation": ".dark{color:#dddddd}.dark a{color:#80BBFF}.dark table tr:nth-child(even){background-color:#3d3d3d}.dark blockquote{color:#999}.dark hr{background-color:#999}.dark code{background-color:rgba(255,255,255,.1)}.dark svg{background-color:#dddddd}.dark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}"
+  }
+}
