@@ -97,46 +97,46 @@
       "backgroundColor": "#3d3d3d",
       "dividerColor": "#424242",
       "middleDividerColor": "#424242",
-      "controlColor": "#dddddd",
+      "controlColor": "#999999",
       "pressedControlColor": "#1F6FEB",
-      "iconColor": "#dddddd",
-      "textColor": "#dddddd",
+      "iconColor": "#999999",
+      "textColor": "#999999",
       "popUpButton": {
-        "titleColor": "#dddddd",
+        "titleColor": "#999999",
         "borderColor": "#424242"
       },
       "tagField": {
-        "textColor": "#dddddd",
-        "placeholderColor": "#dddddd",
+        "textColor": "#999999",
+        "placeholderColor": "#999999",
         "tag": {
-          "textColor": "#dddddd",
-          "selectedTextColor": "#dddddd",
+          "textColor": "#999999",
+          "selectedTextColor": "#999999",
           "backgroundColor": "#424242",
           "selectedBackgroundColor": "#1F6FEB",
           "borderRadius": 4
         }
       },
       "formatBar": {
-        "controlColor": "#dddddd",
+        "controlColor": "#999999",
         "highlightColor": "#5fd1f0"
       },
       "searchField": {
-        "textColor": "#dddddd",
-        "controlColor": "#dddddd",
+        "textColor": "#999999",
+        "controlColor": "#999999",
         "pressedControlColor": "#1F6FEB",
         "backgroundColor": "#3d3d3d",
         "borderColor": "#424242",
-        "placeholderColor": "#dddddd"
+        "placeholderColor": "#999999"
       },
       "doneButton": {
-        "textColor": "#dddddd",
-        "highlightBackgroundColor": "#dddddd",
+        "textColor": "#999999",
+        "highlightBackgroundColor": "#999999",
         "borderColor": "#424242"
       }
     },
     "bottomBar": {
       "backgroundColor": "#3d3d3d",
-      "controlColor": "#dddddd",
+      "controlColor": "#999999",
       "pressedControlColor": "#1F6FEB"
     }
   },
