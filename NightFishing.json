@@ -70,12 +70,12 @@
     "bottomBar": {
       "backgroundColor": "#444444",
       "searchField": {
-        "textColor": "#dddddd",
-        "controlColor": "#dddddd",
+        "textColor": "dddddd",
+        "controlColor": "#999999",
         "pressedControlColor": "#1F6FEB",
         "backgroundColor": "#3d3d3d",
-        "borderColor": "#424242",
-        "placeholderColor": "#dddddd"
+        "borderColor": "#333333",
+        "placeholderColor": "#999999"
       }
     }
   },
@@ -235,7 +235,7 @@
   },
   "css": {
     "className": "dark",
-    "editor": ".dark{color:#dddddd}.dark a{color:#80BBFF}.dark table tr:nth-child(even){background-color:#3d3d3d}.dark blockquote{color:#999}.dark hr{background-color:#999}.dark code{background-color:rgba(255,255,255,.1)}.dark svg{background-color:#dddddd}.dark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}.dark .diagram-cell .ace_editor,.dark .latex-cell .ace_editor,.dark .markdown-cell .ace_editor{color:#c7c7c7;background-color:#3d3d3d}.dark .markdown-cell .ace_list{color:#c7c7c7} .cell.inEditMode{border-color: #303030; background-color:#333333;} .dark .ace_focus{background-color: #333333 !important;}",
+    "editor": ".dark{color:#dddddd}.dark a{color:#80BBFF}.dark table tr:nth-child(even){background-color:#3d3d3d}.dark blockquote{color:#999}.dark hr{background-color:#999}.dark code{background-color:rgba(255,255,255,.1)}.dark svg{background-color:#dddddd}.dark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}.dark .diagram-cell .ace_editor,.dark .latex-cell .ace_editor,.dark .markdown-cell .ace_editor{color:#c7c7c7;background-color:#3d3d3d}.dark .markdown-cell .ace_list{color:#c7c7c7} .cell.inEditMode{border-color: #333333; background-color:#383838;} .dark .ace_focus{background-color: #383838 !important;}",
     "preview": ".dark{color:#dddddd}.dark a{color:#80BBFF}.dark table tr:nth-child(even){background-color:#3d3d3d}.dark blockquote{color:#999}.dark hr{background-color:#999}.dark code{background-color:rgba(255,255,255,.1)}.dark svg{background-color:#dddddd}.dark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}",
     "presentation": ".dark{color:#dddddd}.dark a{color:#80BBFF}.dark table tr:nth-child(even){background-color:#3d3d3d}.dark blockquote{color:#999}.dark hr{background-color:#999}.dark code{background-color:rgba(255,255,255,.1)}.dark svg{background-color:#dddddd}.dark .text-cell [style]{color:#c7c7c7!important;background-color:transparent!important}"
   }
